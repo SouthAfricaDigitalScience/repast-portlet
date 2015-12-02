@@ -36,8 +36,6 @@ import com.liferay.portal.kernel.util.WebKeys;
 import com.liferay.portal.theme.ThemeDisplay;
 import com.liferay.portal.model.User;
 
-// Importing Apache libraries
-
 // Importing GridEngine Job libraries
 import it.infn.ct.GridEngine.Job.*;
 import it.infn.ct.GridEngine.JobResubmission.GEJobDescription;

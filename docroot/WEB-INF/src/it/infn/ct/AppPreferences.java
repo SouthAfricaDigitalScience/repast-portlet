@@ -28,13 +28,9 @@ import java.util.List;
 import java.util.ArrayList;
 
 // Import AppLogger
-import it.infn.ct.AppLogger;
 
 // Importing GridEngine Job libraries 
-import it.infn.ct.GridEngine.Job.*;
 import it.infn.ct.GridEngine.Job.InfrastructureInfo;
-import it.infn.ct.GridEngine.UsersTracking.UsersTrackingDBInterface;
-import it.infn.ct.GridEngine.Job.MultiInfrastructureJobSubmission;
 
 /** 
  * This object is used to store the values of portlet preferences
